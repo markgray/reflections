@@ -17,4 +17,8 @@ What value do you think it offers?
 
 It makes it easier to separate commits based on their logical meaning.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+By only adding logically connected files to the staging area before each commit.
+
 
