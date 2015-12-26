@@ -1,0 +1,20 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An empty repository is created. This is necessary to produce the metadata
+files which will be used to maintain the repository once files have been
+committed to it.
+
+How is the staging area different from the working directory and the repository? 
+
+Files still in the working directory are "marked to be commited" to the repository
+with the next commit when they are added to the staging area, other files in the
+working directory will not have there changes committed until they are added to
+the staging area. Files in the repository can have many versions based on their
+commit ID, allowing the differences between versions to be viewed and allowing
+older versions to be reverted to.
+
+What value do you think it offers?
+
+It makes it easier to separate commits based on their logical meaning.
+
+
