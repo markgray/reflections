@@ -32,3 +32,9 @@ How would branches help?
 They allow you to jump back and forth between versions easily, and allow you to merge
 changes made in different versions when necessary (say a bug fix in the master version).
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make the struture easier to understand, allowing you to see which commits effect
+which branches, and which are missing from which branches.
+
+
