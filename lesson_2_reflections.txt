@@ -46,3 +46,8 @@ Why do we represent it in the diagram the way we do?
 
 Because the resulting branch has the two merged branches as its parent
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The pros are that it saves a whole lot of drudgery in merging two branches that is required
+when doing the work manually, the cons are the potential for git to get it wrong.
+
