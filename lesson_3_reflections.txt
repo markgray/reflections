@@ -6,7 +6,9 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    A local 
+    A local modification in progress could be interferred with by changes that
+    have occurred in the remote repository. It would be best to wait until the
+    local mod is finished before merging the upstream state into our local repo
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
