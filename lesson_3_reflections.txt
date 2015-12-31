@@ -29,7 +29,9 @@ What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
     It allows you to see what changes you have made relative to that last known
-    state and allows git to merge changes made to remote easily.
+    state and allows git to merge changes made to remote easily. When two 
+    collaborators make changes relative to their copy of the last know state of
+    the remote, later merging the two branches it is much cleaner.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
