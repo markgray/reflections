@@ -36,7 +36,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Sending diffs between your changed tree versus some agreed upon starting
+    version. It would be easier to see what changes are in mind, but more manual
+    and error prone to merge those changes into your version of the tree.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
