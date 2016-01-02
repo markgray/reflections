@@ -1,0 +1,4 @@
+In order to calculate dp size of screen, divide pixel size by dpi and
+multiply by 160 -- dp = (pixels/dpi)*160
+
+
